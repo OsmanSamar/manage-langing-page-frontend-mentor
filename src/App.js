@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import SimplifiedWork from "./components/SimplifiedWork";
 import Testimonails from "./components/Testimonails";
-// import Testimonails from "./components/Testimonails";
 
 function App() {
   return (
