@@ -39,7 +39,7 @@ const Navbar = () => {
 
         {/* Button */}
         <a
-          href="#"
+          href="#Get Started"
           className="hidden  p-3 px-6 pt-2 text-white bg-orange-500 
             rounded-full self-baseline hover:bg-red-400 md:block"
         >

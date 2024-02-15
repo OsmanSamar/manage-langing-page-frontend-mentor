@@ -48,29 +48,29 @@ const Footer = () => {
             className="flex flex-col space-y-3 text-white
            "
           >
-            <a href="#" className="hover:text-red-200">
+            <a href="#Home" className="hover:text-red-200">
               Home
             </a>
-            <a href="#" className="hover:text-red-200">
+            <a href="#Pricing" className="hover:text-red-200">
               Pricing
             </a>
-            <a href="#" className="hover:text-red-200">
+            <a href="# Products" className="hover:text-red-200">
               Products
             </a>
-            <a href="#" className="hover:text-red-200">
+            <a href="#AboutUs" className="hover:text-red-200">
               AboutUs
             </a>
           </div>
 
           <div className="flex flex-col space-y-3 text-white ">
-            <a href="#" className="hover:text-red-200">
+            <a href="# Careers" className="hover:text-red-200">
               Careers
             </a>
-            <a href="#" className="hover:text-red-200">
+            <a href="#Community" className="hover:text-red-200">
               Community
             </a>
-            <a href="#" className="hover:text-red-200">
-              PrivacyPolicy
+            <a href="#PrivacyPolicy" className="hover:text-red-200">
+              Privacy Policy
             </a>
           </div>
         </div>
@@ -102,11 +102,16 @@ const Footer = () => {
             <a
               href="https://www.frontendmentor.io?ref=challenge"
               target="_blank"
+              ref="noreferrer"
             >
               Frontend Mentor
             </a>
             . Coded by{" "}
-            <a href="#" className="hover:text-red-200">
+            <a
+              href="# Samar Osman"
+              ref="noreferrer"
+              className="hover:text-red-200"
+            >
               Samar Osman
             </a>
             .
