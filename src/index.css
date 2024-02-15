@@ -2,8 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-/* body {
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap");
+
+body {
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
+  font-family: "Be Vietnam Pro", sans-serif;
+  background-image: url("../src/assets/bg-tablet-pattern.svg");
+  background-repeat: no-repeat;
+  background-size: 800px;
+  background-position: 90% -25%;
+}
+
+.simplified {
+  background-image: url(../src/assets/bg-simplify-section-desktop.svg);
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 576px) {
+  body {
+    background-position: 50px -50px;
+    background-size: 500px;
+  }
+
+  .simplified {
+    background-image: url(../src/assets/bg-simplify-section-mobile.svg);
+    background-repeat: no-repeat;
+  }
+}

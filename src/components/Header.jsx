@@ -19,15 +19,14 @@ const Header = () => {
           Manage makes it simple for software teams to plan day-to-day tasks
           while keeping the larger team goals in view.
         </p>
-        <button className="flex justify-center md:justify-start">
-          <a
-            href="#"
-            className="p-3 px-6 pt-2 text-white bg-orange-500 
+
+        <a
+          href="#"
+          className="p-3 px-6 pt-2 text-white bg-orange-500 
             rounded-full self-baseline hover:bg-red-400 "
-          >
-            Get Started
-          </a>
-        </button>
+        >
+          Get Started
+        </a>
       </div>
       {/* Right Side */}
       <div className="md:w-1/2">
