@@ -97,10 +97,10 @@ const Footer = () => {
           <div className=" text-white hidden md:block ">
             Copyright 2020. All Rights Reserved
           </div>
-          {/* <div className=" text-white hidden md:block ">
+          <div className=" text-white hidden md:block ">
             Challenge by
             <a
-              href="https://www.frontendmentor.io?ref=challenge"
+              href="#https://www.frontendmentor.io?ref=challenge"
               target="_blank"
               ref="noreferrer"
             >
@@ -115,7 +115,7 @@ const Footer = () => {
               Samar Osman
             </a>
             .
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
