@@ -118,6 +118,26 @@ const Footer = () => {
           </div> */}
         </div>
       </div>
+
+      <div class="py-2 ">
+        <p class="text-white leading-snug text-center text-sm">
+          Challenge by&nbsp;
+          <a
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            rel="frontendmentor"
+            class="underline"
+          >
+            Frontend Mentor
+          </a>
+          . Coded by&nbsp;
+          {/*To  add a visible space between the elements when rendered in the browser. &nbsp; */}
+          <a href="https://tsbsankara.com" class="underline hover:text-red-200">
+            Samar Osman
+          </a>
+          .
+        </p>
+      </div>
     </div>
   );
 };
