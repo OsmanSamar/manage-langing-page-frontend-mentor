@@ -21,7 +21,8 @@ const Header = () => {
         </p>
 
         <a
-          href="#"
+          href="#getstarted"
+          ref="noreferrer"
           className="p-3 px-6 pt-2 text-white bg-orange-500 
             rounded-full self-baseline hover:bg-red-400 "
         >

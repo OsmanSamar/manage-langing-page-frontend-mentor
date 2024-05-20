@@ -20,19 +20,19 @@ const Navbar = () => {
         </div>
 
         <div className="hidden space-x-6  md:flex">
-          <a href="#" className="hover:text-gray-500">
+          <a href="#Pricing" className="hover:text-gray-500">
             Pricing
           </a>
-          <a href="#" className="hover:text-gray-500">
+          <a href="# Product" className="hover:text-gray-500">
             Product
           </a>
-          <a href="#" className="hover:text-gray-500">
+          <a href="#About Us" className="hover:text-gray-500">
             About Us
           </a>
-          <a href="#" className="hover:text-gray-500">
+          <a href="#Careers" className="hover:text-gray-500">
             Careers
           </a>
-          <a href="#" className="hover:text-gray-500">
+          <a href="#Community" className="hover:text-gray-500">
             Community
           </a>
         </div>

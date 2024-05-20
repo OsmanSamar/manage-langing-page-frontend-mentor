@@ -16,7 +16,8 @@ const SimplifiedWork = () => {
 
         <div className="my-16 ">
           <a
-            href="#"
+            href="# Get Started"
+            ref="noreferrer"
             className="p-3 px-6 pt-2 text-orange-500 bg-white
              shadow-l rounded-full 
              self-baseline hover:bg-red-900 "

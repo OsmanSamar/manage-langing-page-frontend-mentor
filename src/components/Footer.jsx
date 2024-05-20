@@ -125,7 +125,7 @@ const Footer = () => {
           <a
             href="https://www.frontendmentor.io?ref=challenge"
             target="_blank"
-            rel="frontendmentor"
+            rel="noreferrer"
             class="underline"
           >
             Frontend Mentor
