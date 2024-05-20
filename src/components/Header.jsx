@@ -20,14 +20,12 @@ const Header = () => {
           while keeping the larger team goals in view.
         </p>
 
-        <a
-          href="#getstarted"
-          ref="noreferrer"
+        <button
           className="p-3 px-6 pt-2 text-white bg-orange-500 
             rounded-full self-baseline hover:bg-red-400 "
         >
           Get Started
-        </a>
+        </button>
       </div>
       {/* Right Side */}
       <div className="md:w-1/2">

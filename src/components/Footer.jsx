@@ -54,7 +54,7 @@ const Footer = () => {
             <a href="#Pricing" className="hover:text-red-200">
               Pricing
             </a>
-            <a href="# Products" className="hover:text-red-200">
+            <a href="#Products" className="hover:text-red-200">
               Products
             </a>
             <a href="#AboutUs" className="hover:text-red-200">
@@ -63,13 +63,13 @@ const Footer = () => {
           </div>
 
           <div className="flex flex-col space-y-3 text-white ">
-            <a href="# Careers" className="hover:text-red-200">
+            <a href="#Careers " className="hover:text-red-200">
               Careers
             </a>
             <a href="#Community" className="hover:text-red-200">
               Community
             </a>
-            <a href="#PrivacyPolicy" className="hover:text-red-200">
+            <a href="# Privacy Policy" className="hover:text-red-200">
               Privacy Policy
             </a>
           </div>

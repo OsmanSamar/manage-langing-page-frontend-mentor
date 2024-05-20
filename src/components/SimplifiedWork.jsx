@@ -15,15 +15,13 @@ const SimplifiedWork = () => {
         </h2>
 
         <div className="my-16 ">
-          <a
-            href="# Get Started"
-            ref="noreferrer"
+          <button
             className="p-3 px-6 pt-2 text-orange-500 bg-white
              shadow-l rounded-full 
              self-baseline hover:bg-red-900 "
           >
             Get Started
-          </a>
+          </button>
         </div>
       </div>
     </div>

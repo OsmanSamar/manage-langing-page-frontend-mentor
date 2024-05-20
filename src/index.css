@@ -9,11 +9,11 @@ body {
   font-family: "Be Vietnam Pro", sans-serif;
   background-image: url("../src/assets/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
-  background-size: 800px;
+  background-size: 660px;
   /* background-size: 120%, 70%; */
   /* background-position: 90% -25%; */
 
-  background-position: top -11.5rem right -8.5rem;
+  background-position: top -8.5rem right -7.5rem;
   /* background-position: 120% -8%; */
 }
 
